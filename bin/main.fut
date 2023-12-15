@@ -1,0 +1,1 @@
+def main (xs: []f64) = reduce (+) 0 xs / f64.i64 (length xs)
